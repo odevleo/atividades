@@ -1,4 +1,4 @@
-""" Desafio 01 - Programa para executar algumas perguntas para o usuário informar."""
+""" Desafio 01 e 03 - Programa para executar algumas perguntas para o usuário informar."""
 from Pessoa import *
 
 def info():
